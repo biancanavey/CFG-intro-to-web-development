@@ -1,0 +1,26 @@
+nav{
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'EB Garamond', serif;
+    margin: 15px;
+
+}
+h1{
+    color:darkolivegreen;
+    font-size: 50px;
+    text-align: right;
+}
+#about-me{
+    color: darksalmon;
+    font-weight: bold;
+    font-size: 35px;
+}
+.underlined{
+    text-decoration: underline;
+}
+    
+
